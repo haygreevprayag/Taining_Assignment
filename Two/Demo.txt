@@ -1,0 +1,2 @@
+This is a text file,
+It is to show that a file can be read line by line and stored into a variable
